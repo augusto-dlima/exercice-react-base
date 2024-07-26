@@ -1,0 +1,12 @@
+.container{
+
+    max-width: 330px;
+    padding: 20px;
+    font-size: 13px;
+    background-color: #fff;
+    text-align: justify;
+    text-transform: uppercase;
+    box-shadow: 5px 5px 5px 3px #242424;
+
+    
+}

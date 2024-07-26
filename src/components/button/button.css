@@ -1,0 +1,12 @@
+.btn{
+
+border: none;
+border-radius: 5px;
+padding: 10px;
+background-color: #1b98e0;
+color: white;
+cursor: pointer;
+text-transform: capitalize;
+margin: 0px;
+
+}
